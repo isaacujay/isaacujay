@@ -1,5 +1,5 @@
 # Umoh Isaac
-**Revenue Intelligence & Quantitative ML Engineer**  
+**Revenue Intelligence Analytic Engineer**  
 *Data Analytics • Machine Learning • Business Intelligence*
 
 Uniting web, marketing, sales, and financial pipelines into automated decision engines. I deploy predictive churn models, time-series forecasting, and settlement architectures that eliminate cash drag, plug full-funnel leaks, and protect net operating margins.
